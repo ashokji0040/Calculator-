@@ -12,6 +12,7 @@ A calculator built with HTML, CSS, and JavaScript that allows users to perform b
 - Clear button to reset the input.
 - Responsive design suitable for both mobile and desktop devices.
 - User-friendly interface with intuitive controls.
+- Keyboard Input Support
 
 ## Technologies Used
 
