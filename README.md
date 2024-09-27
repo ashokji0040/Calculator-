@@ -4,7 +4,7 @@ A calculator built with HTML, CSS, and JavaScript that allows users to perform b
 
 ## Demo
 
-![Calculator Demo](link_to_demo_image_or_gif)
+![Calculator Demo](https://github.com/ashokji0040/Calculator-/blob/main/imageScreenshot.png)
 
 ## Features
 
